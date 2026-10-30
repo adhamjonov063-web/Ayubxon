@@ -1,0 +1,6 @@
+{
+  "name": "Shahar Poygasi & Tyuning (3D Avto O'yini)",
+  "description": "3D shahar avtomobil o'yini: erkin haydash, 2 kishilik o'yin, balon va rang tyuningi, AI mashinalar va benzin zapravkasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
